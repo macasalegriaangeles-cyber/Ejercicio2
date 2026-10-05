@@ -30,7 +30,7 @@ public class Practica20 {
         subtotal += valorp;    
     }
         
-        if (subtotal >= 300) {
+        if (subtotal >= 400) {
             descuento = subtotal * 0.15;
         } else if (subtotal >= 200) {
             descuento = subtotal * 0.10;
